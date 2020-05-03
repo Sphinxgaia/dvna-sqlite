@@ -5,13 +5,13 @@ LABEL MAINTAINER "Sphinxgaia"
 
 WORKDIR /opt
 
-COPY package.json .
+COPY nodes/package.json .
 
 RUN npm install
 
 WORKDIR /app
 
-COPY . .
+COPY nodes/ .
 
 RUN apt-get update && \
     apt-get install -y iputils-ping
