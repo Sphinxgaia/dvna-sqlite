@@ -1,6 +1,6 @@
 # Damn Vulnerable NodeJS Application (DVNA) 
 
-![dvna-logo](https://github.com/Sphinxgaia/dvna-sqlite/raw/master/docs/ressources/dvna.png)
+![dvna-logo](https://github.com/Sphinxgaia/dvna-sqlite/raw/master/docs/resources/dvna.png)
 
 Damn Vulnerable NodeJS Application (DVNA) is a simple NodeJS application to demonstrate [**OWASP Top 10 Vulnerabilities**](https://www.owasp.org/index.php/Top_10-2017_Top_10) and guide on fixing and avoiding these vulnerabilities. 
 
