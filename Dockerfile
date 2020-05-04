@@ -11,7 +11,7 @@ RUN npm install
 
 WORKDIR /app
 
-COPY nodes/ .
+COPY . .
 
 RUN apt-get update && \
     apt-get install -y iputils-ping
