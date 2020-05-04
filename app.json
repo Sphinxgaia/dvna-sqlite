@@ -1,0 +1,20 @@
+{
+  "name": "DVNA",
+  "description": "DVNA another broken app in Node.JS",
+  "keywords": [
+    "web security",
+    "web application security",
+    "webappsec",
+    "owasp",
+    "pentest",
+    "pentesting",
+    "security",
+    "vulnerable",
+    "vulnerability",
+    "broken",
+    "bodgeit"
+  ],
+  "website": "https://appsecco.com/books/dvna-developers-security-guide",
+  "repository": "https://github.com/Sphinxgaia/dvna-sqlite",
+  "logo": "https://github.com/Sphinxgaia/dvna-sqlite/raw/master/docs/ressources/dvna.png"
+}

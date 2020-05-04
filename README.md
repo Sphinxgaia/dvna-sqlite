@@ -17,6 +17,8 @@ The application comes with a **developer friendly comprehensive guidebook** whic
 
 ## Getting Started (SQLite)
 
+### Docker
+
 * Start the application using below docker command
 
 ```bash
@@ -24,6 +26,13 @@ docker run --name dvna -p 9090:9090 -d appsecco/dvna:sqlite
 ```
 
 * Access the application at http://127.0.0.1:9090
+
+### Heroku
+
+1. Create an account
+2. Click
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## TODO
 
