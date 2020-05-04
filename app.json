@@ -16,7 +16,7 @@
   ],
   "engines": {
     "node": "8.9.x"
-  }
+  },
   "website": "https://appsecco.com/books/dvna-developers-security-guide",
   "repository": "https://github.com/Sphinxgaia/dvna-sqlite",
   "logo": "https://github.com/Sphinxgaia/dvna-sqlite/raw/master/docs/ressources/dvna.png"
